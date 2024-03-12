@@ -20,7 +20,7 @@
     "lint": "eslint . --ext .ts,.json --fix"
   },
   "dependencies": {
-    "@ethersproject/abi": "^5.0.4",
+    "@ethersproject/abi": "^5.7.0",
     "@ethersproject/address": "^5.0.4",
     "@ethersproject/bignumber": "^5.0.12",
     "@ethersproject/bytes": "^5.0.8",
